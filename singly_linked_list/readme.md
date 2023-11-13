@@ -1,7 +1,7 @@
 #### A Python object constructor for singly linked list
 #### Includes methods for:
 - append
-- prepend (append at the end)
+- prepend (append first)
 - insert at given index
 - traverse
 - search for value
